@@ -1,2 +1,2 @@
-# ScatterScan
+# ScatterSync
 ADHD Planning Assistant
